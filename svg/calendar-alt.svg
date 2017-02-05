@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 50" style="enable-background:new 0 0 64 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#343434;}
+</style>
+<title>calendar-alt</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M61,0H3C1.3,0,0,1.3,0,3v45c0,1.1,0.9,2,2,2h60c1.1,0,2-0.9,2-2V3C64,1.3,62.7,0,61,0z M60,46H4V16h56V46z
+		 M60,12H4V4h56V12z"/>
+	<path class="st0" d="M39.3,38.3c-2.2,0-3.8-1.1-4.9-2.3l-1.3,1.6c1.3,1.4,3.2,2.7,6.3,2.7c3.5,0,6.3-2.1,6.3-5.5
+		c0-2.6-1.8-4.3-4.1-4.9v-0.1c2.1-0.8,3.5-2.2,3.5-4.6c0-3.1-2.4-4.9-5.7-4.9c-2.2,0-4,1-5.5,2.4l1.3,1.6c1.1-1.1,2.5-2,4.1-2
+		c2,0,3.3,1.2,3.3,3c0,2-1.3,3.6-5.4,3.6V31c4.6,0,6.1,1.5,6.1,3.8C43.2,36.9,41.6,38.3,39.3,38.3z"/>
+	<path class="st0" d="M24,22.5c2.4,0,3.6,1.6,3.6,3.8c0,3.1-3.2,6.5-9,12.3V40H31v-2.1h-5.5c-1,0-2.2,0.1-3.2,0.2
+		c4.5-4.7,7.8-8.3,7.8-11.9c0-3.4-2.2-5.6-5.7-5.6c-2.5,0-4.2,1.2-5.8,2.9l1.4,1.4C21,23.5,22.4,22.5,24,22.5z"/>
+</g>
+</svg>

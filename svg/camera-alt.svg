@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#343434;}
+</style>
+<title>camera-alt</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M51,0H13C5.8,0,0,5.8,0,13v38c0,7.2,5.8,13,13,13h38c7.2,0,13-5.8,13-13V13C64,5.8,58.2,0,51,0z M4,13
+		c0-5,4-9,9-9h38c5,0,9,4,9,9v31H4V13z M51,60H13c-5,0-9-4-9-9v-3h56v3C60,56,56,60,51,60z"/>
+	<path class="st0" d="M54,8h-4c-1.1,0-2,0.9-2,2v4c0,1.1,0.9,2,2,2h4c1.1,0,2-0.9,2-2v-4C56,8.9,55.1,8,54,8z"/>
+	<path class="st0" d="M14,32h-4c-1.1,0-2,0.9-2,2v4c0,1.1,0.9,2,2,2h4c1.1,0,2-0.9,2-2v-4C16,32.9,15.1,32,14,32z"/>
+	<path class="st0" d="M51,52H13c-1.1,0-2,0.9-2,2s0.9,2,2,2h38c1.1,0,2-0.9,2-2S52.1,52,51,52z"/>
+	<path class="st0" d="M32,11c-7.2,0-13,5.8-13,13s5.8,13,13,13s13-5.8,13-13S39.2,11,32,11z M32,33c-5,0-9-4-9-9s4-9,9-9s9,4,9,9
+		S37,33,32,33z"/>
+</g>
+</svg>

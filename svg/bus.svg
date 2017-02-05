@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 52 64" style="enable-background:new 0 0 52 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+</style>
+<title>bus</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M41,0H11C4.9,0,0,4.9,0,11v34c0,3.9,2,7.3,5,9.2V61c0,1.7,1.3,3,3,3h5c1.7,0,3-1.3,3-3v-5c0,0,0,0,0,0h20
+		c0,0,0,0,0,0v5c0,1.7,1.3,3,3,3h5c1.7,0,3-1.3,3-3v-6.8c3-2,5-5.4,5-9.2V11C52,4.9,47.1,0,41,0z M11,3h30c4.1,0,7.4,3.1,7.9,7H3.1
+		C3.6,6.1,6.9,3,11,3z M49,13v26H3V13H49z M13,61c0,0-5,0-5,0v-5c0,0,5,0,5,0C13,56,13,61,13,61z M44,56c0,0,0,5,0,5c0,0-5,0-5,0
+		c0,0,0-5,0-5h2H44z M41,53h-2H13h-2c-4.4,0-8-3.6-8-8v-3h46v3C49,49.4,45.4,53,41,53z"/>
+	<path class="st0" d="M11,43c-2.2,0-4,1.8-4,4s1.8,4,4,4s4-1.8,4-4S13.2,43,11,43z M11,49c-1.1,0-2-0.9-2-2s0.9-2,2-2s2,0.9,2,2
+		S12.1,49,11,49z"/>
+	<path class="st0" d="M41,43c-2.2,0-4,1.8-4,4s1.8,4,4,4s4-1.8,4-4S43.2,43,41,43z M41,49c-1.1,0-2-0.9-2-2s0.9-2,2-2s2,0.9,2,2
+		S42.1,49,41,49z"/>
+	<path class="st0" d="M8,34c0.6,0,1-0.4,1-1V18c0-0.6-0.4-1-1-1s-1,0.4-1,1v15C7,33.6,7.4,34,8,34z"/>
+</g>
+</svg>
