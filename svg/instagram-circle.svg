@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#343434;}
+</style>
+<title>instagram-circle</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M32,0C14.3,0,0,14.3,0,32c0,17.7,14.3,32,32,32s32-14.3,32-32C64,14.3,49.7,0,32,0z M52,40.1
+		C52,46.7,46.7,52,40.1,52H23.9c-6.5,0-11.7-5.2-11.9-11.6V23.6C12.2,17.1,17.5,12,23.9,12h16.2C46.7,12,52,17.3,52,23.9V40.1z"/>
+	<path class="st0" d="M40.1,16H23.9c-4.4,0-7.9,3.5-7.9,7.9v16.2c0,4.4,3.5,7.9,7.9,7.9h16.2c4.4,0,7.9-3.5,7.9-7.9V23.9
+		C48,19.6,44.4,16,40.1,16z M32.5,43C26.7,43,22,38.3,22,32.5C22,26.7,26.7,22,32.5,22S43,26.7,43,32.5S38.3,43,32.5,43z M42.5,24
+		c-1.4,0-2.5-1.1-2.5-2.5c0-1.4,1.1-2.5,2.5-2.5c1.4,0,2.5,1.1,2.5,2.5C45,22.9,43.9,24,42.5,24z"/>
+	<circle class="st0" cx="32.5" cy="32.5" r="6.4"/>
+</g>
+</svg>

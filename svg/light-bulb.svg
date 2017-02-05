@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 64" style="enable-background:new 0 0 48 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#343434;}
+</style>
+<title>light-bulb</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M24,0C10.7,0,0,10.7,0,24c0,8.5,4.4,15.9,11,20.2V59c0,2.8,2.2,5,5,5h16c2.8,0,5-2.2,5-5V44.2
+		c6.6-4.3,11-11.7,11-20.2C48,10.7,37.3,0,24,0z M33,59c0,0.5-0.4,1-1,1H16c-0.5,0-1-0.5-1-1v-1h7c1.1,0,2-0.9,2-2c0-1.1-0.9-2-2-2
+		h-7v-3h18V59z M33,41.9V47h-3V18c0-1.1-0.9-2-2-2c-1.1,0-2,0.9-2,2v29h-4V24c0-1.1-0.9-2-2-2c-1.1,0-2,0.9-2,2v23h-3v-5.1
+		C8.5,38.6,4,31.8,4,24C4,13,13,4,24,4s20,9,20,20C44,31.8,39.5,38.6,33,41.9z"/>
+</g>
+</svg>

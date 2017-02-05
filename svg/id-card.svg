@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 42" style="enable-background:new 0 0 64 42;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+</style>
+<title>id-card</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M59,0H5C2.2,0,0,2.2,0,5v32c0,2.8,2.2,5,5,5h54c2.8,0,5-2.2,5-5V5C64,2.2,61.8,0,59,0z M60,37c0,0.6-0.4,1-1,1
+		H5c-0.5,0-1-0.4-1-1V5c0-0.6,0.4-1,1-1h54c0.5,0,1,0.4,1,1V37z"/>
+	<path class="st0" d="M21,10H10c-1.1,0-2,0.9-2,2v14c0,1.1,0.9,2,2,2h11c1.1,0,2-0.9,2-2V12C23,10.9,22.1,10,21,10z"/>
+	<path class="st0" d="M54,10H29c-1.1,0-2,0.9-2,2c0,1.1,0.9,2,2,2h25c1.1,0,2-0.9,2-2C56,10.9,55.1,10,54,10z"/>
+	<path class="st0" d="M54,16H29c-1.1,0-2,0.9-2,2c0,1.1,0.9,2,2,2h25c1.1,0,2-0.9,2-2C56,16.9,55.1,16,54,16z"/>
+	<path class="st0" d="M33,22h-4c-1.1,0-2,0.9-2,2c0,1.1,0.9,2,2,2h4c1.1,0,2-0.9,2-2C35,22.9,34.1,22,33,22z"/>
+	<path class="st0" d="M43,22h-4c-1.1,0-2,0.9-2,2c0,1.1,0.9,2,2,2h4c1.1,0,2-0.9,2-2C45,22.9,44.1,22,43,22z"/>
+</g>
+</svg>

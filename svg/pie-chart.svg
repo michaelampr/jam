@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+</style>
+<title>pie-chart</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M32,0v32h32C64,14.3,49.7,0,32,0z"/>
+	<path class="st0" d="M28,36V0.2C12.2,2.2,0,15.7,0,32c0,17.7,14.3,32,32,32c16.3,0,29.8-12.2,31.8-28H30H28z"/>
+</g>
+</svg>
