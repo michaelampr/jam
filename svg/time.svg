@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+</style>
+<title>time</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M32,0C14.3,0,0,14.3,0,32c0,17.7,14.3,32,32,32s32-14.3,32-32C64,14.3,49.7,0,32,0z M32,60
+		C16.5,60,4,47.5,4,32S16.5,4,32,4s28,12.5,28,28S47.5,60,32,60z"/>
+	<path class="st0" d="M47,32H33V9c0-0.6-0.4-1-1-1h-2c-0.6,0-1,0.4-1,1v24v1v1c0,0.6,0.4,1,1,1h17c0.6,0,1-0.4,1-1v-2
+		C48,32.4,47.6,32,47,32z"/>
+</g>
+</svg>

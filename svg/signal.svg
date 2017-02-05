@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 54" style="enable-background:new 0 0 60 54;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+</style>
+<title>signal</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M17,38c-2.2,0-4,1.8-4,4v8c0,2.2,1.8,4,4,4s4-1.8,4-4v-8C21,39.8,19.2,38,17,38z"/>
+	<circle class="st0" cx="4" cy="50" r="4"/>
+	<path class="st0" d="M30,30c-2.2,0-4,1.8-4,4v16c0,2.2,1.8,4,4,4s4-1.8,4-4V34C34,31.8,32.2,30,30,30z"/>
+	<path class="st0" d="M43,18c-2.2,0-4,1.8-4,4v28c0,2.2,1.8,4,4,4s4-1.8,4-4V22C47,19.8,45.2,18,43,18z"/>
+	<path class="st0" d="M56,0c-2.2,0-4,1.8-4,4v46c0,2.2,1.8,4,4,4s4-1.8,4-4V4C60,1.8,58.2,0,56,0z"/>
+</g>
+</svg>

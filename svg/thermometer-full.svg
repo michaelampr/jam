@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26 64" style="enable-background:new 0 0 26 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+</style>
+<title>thermometer-full</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M22,41.6V9c0-5-4-9-9-9C8,0,4,4,4,9v32.6C1.5,44,0,47.3,0,51c0,7.2,5.8,13,13,13s13-5.8,13-13
+		C26,47.3,24.5,44,22,41.6z M13,60c-5,0-9-4-9-9c0-2.5,1-4.8,2.8-6.5L8,43.3V9c0-2.8,2.2-5,5-5c2.8,0,5,2.2,5,5v34.3l1.2,1.2
+		c1.8,1.7,2.8,4,2.8,6.5C22,56,18,60,13,60z"/>
+	<path class="st0" d="M16,44.7V11h-6v33.7c-2.4,1.1-4,3.5-4,6.3c0,3.9,3.1,7,7,7s7-3.1,7-7C20,48.2,18.4,45.8,16,44.7z"/>
+</g>
+</svg>
