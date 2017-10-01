@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 38 64" style="enable-background:new 0 0 38 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#343434;}
-</style>
-<title>coffee-alt</title>
-<desc>Created with Sketch.</desc>
-<path class="st0" d="M36,7V5.5c0-3-2.5-5.5-5.5-5.5h-23C4.5,0,2,2.5,2,5.5V7C0.9,7,0,7.9,0,9v7c0,1.1,0.9,2,2,2h0.2l0.3,8H2l1,25
-	h0.5l0.6,13h29.8l0.6-13h0.5L36,26h-0.5l0.3-8H36c1.1,0,2-0.9,2-2V9C38,7.9,37.1,7,36,7z M30.6,47H7.4L6.7,30h24.6L30.6,47z
-	 M30,59.9H8L7.6,51h22.8L30,59.9z M6.5,26l-0.3-7.9h25.6L31.5,26H6.5z M34,14H4v-3h30V14z M6,5.5C6,4.7,6.7,4,7.5,4h23
-	C31.3,4,32,4.7,32,5.5V7H6V5.5z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 64" enable-background="new 0 0 38 64"><style type="text/css">.st0{fill:#343434;}</style><title>coffee-alt</title><desc>Created with Sketch.</desc><path class="st0" d="M36 7v-1.5c0-3-2.5-5.5-5.5-5.5h-23c-3 0-5.5 2.5-5.5 5.5v1.5c-1.1 0-2 .9-2 2v7c0 1.1.9 2 2 2h.2l.3 8h-.5l1 25h.5l.6 13h29.8l.6-13h.5l1-25h-.5l.3-8h.2c1.1 0 2-.9 2-2v-7c0-1.1-.9-2-2-2zm-5.4 40h-23.2l-.7-17h24.6l-.7 17zm-.6 12.9h-22l-.4-8.9h22.8l-.4 8.9zm-23.5-33.9l-.3-7.9h25.6l-.3 7.9h-25zm27.5-12h-30v-3h30v3zm-28-8.5c0-.8.7-1.5 1.5-1.5h23c.8 0 1.5.7 1.5 1.5v1.5h-26v-1.5z"/></svg>

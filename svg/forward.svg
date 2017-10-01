@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 52" style="enable-background:new 0 0 64 52;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#343434;}
-</style>
-<title>forward</title>
-<desc>Created with Sketch.</desc>
-<path class="st0" d="M62.8,24.4L26.5,0.6C25.1-0.3,24,0.3,24,2v5.5v3.9v3.2l-2.7-1.8l-3.3-2L2.5,0.6C1.1-0.3,0,0.3,0,2v48.1
-	c0,1.7,1.1,2.3,2.5,1.4L18,41.3l3.3-2.2l2.7-1.8v3.2v3.9v5.5c0,1.7,1.1,2.3,2.5,1.4l36.3-23.8C64.2,26.8,64.2,25.3,62.8,24.4z
-	 M30,42V26.3L6,42V10.1l24,15.7V10.1l24.4,16L30,42z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 52" enable-background="new 0 0 64 52"><style type="text/css">.st0{fill:#343434;}</style><title>forward</title><desc>Created with Sketch.</desc><path class="st0" d="M62.8 24.4l-36.3-23.8c-1.4-.9-2.5-.3-2.5 1.4v12.600000000000001l-2.7-1.8-3.3-2-15.5-10.2c-1.4-.9-2.5-.3-2.5 1.4v48.1c0 1.7 1.1 2.3 2.5 1.4l15.5-10.2 3.3-2.2 2.7-1.8v12.6c0 1.7 1.1 2.3 2.5 1.4l36.3-23.8c1.4-.7 1.4-2.2 0-3.1zm-32.8 17.6v-15.7l-24 15.7v-31.9l24 15.7v-15.7l24.4 16-24.4 15.9z"/></svg>
