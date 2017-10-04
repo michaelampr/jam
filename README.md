@@ -6,7 +6,7 @@ You can see the complete icons list on http://jam-icons.com
 
 ### Need more icons?
 Just ask :) 
-If you need specific icons that are not in the set, do not hesitate to create an issue. I'll do by best to complete the set.
+If you need specific icons that are not in the set, do not hesitate to create an issue. I'll do my best to complete the set.
 
 ### Changelog
 Jam icons is following the Semantic Versioning (http://semver.org/) with the MAJOR.MINOR.PATCH format.
