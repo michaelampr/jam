@@ -20,6 +20,8 @@ Use [unpkg.com](https://unpkg.com) to load directly jam-icons without installing
 #### Manually
 Just hit the **Clone or download** button and choose **Download ZIP**
 
+
+
 ## Usage
 Go to http://jam-icons.com: You'll find the complete list of icons. 
 
@@ -32,17 +34,25 @@ For example, if you need to use the "backpack" icon, do as below:
 
 ```
 
+
+
 ## Complete icons list
 You can see the complete icons list on http://jam-icons.com 
+
+
 
 ## Need more icons?
 Just ask :) 
 If you need specific icons that are not in the set, do not hesitate to create an issue. I'll do my best to complete the set.
 
+
+
 ## Changelog
 Jam icons is following the Semantic Versioning (http://semver.org/) with the MAJOR.MINOR.PATCH format.
 - V1.0.65 - Bug fixes
 - V1.0.0 - First release with 422 icons
+
+
 
 ## Licence
 This project is licensed under MIT (https://opensource.org/licenses/MIT)
