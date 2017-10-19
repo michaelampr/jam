@@ -10,7 +10,7 @@ If you need specific icons that are not in the set, do not hesitate to create an
 
 ### Changelog
 Jam icons is following the Semantic Versioning (http://semver.org/) with the MAJOR.MINOR.PATCH format.
-- V1.0.5 - Bug fixes
+- V1.0.65 - Bug fixes
 - V1.0.0 - First release with 422 icons
 
 ### Licence
