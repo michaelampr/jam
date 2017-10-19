@@ -8,11 +8,11 @@
 */
 @font-face {
   font-family: "jam-icons";
-  src:url("fonts/jam-icons.eot");
-  src:url("fonts/jam-icons.eot?#iefix") format("embedded-opentype"),
-    url("fonts/jam-icons.woff") format("woff"),
-    url("fonts/jam-icons.ttf") format("truetype"),
-    url("fonts/jam-icons.svg#jam-icons") format("svg");
+  src:url("../fonts/jam-icons.eot");
+  src:url("../fonts/jam-icons.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/jam-icons.woff") format("woff"),
+    url("../fonts/jam-icons.ttf") format("truetype"),
+    url("../fonts/jam-icons.svg#jam-icons") format("svg");
   font-weight: normal;
   font-style: normal;
 
