@@ -4,18 +4,14 @@ Jam icons is a set of icons designed for web projects, illustrations, print proj
 ## Install
 #### Via CDN (recommended) 
 Use [unpkg.com](https://unpkg.com) to load directly jam-icons without installing anything:
-```
 
- <link rel="stylesheet" href="https://unpkg.com/jam-icons@1.0.65/css/jam-icons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/jam-icons@1.0.65/css/jam-icons.min.css">
 
-```
 
 #### Via NPM
-```
-        
- npm install jam-icons
 
-```
+    npm install jam-icons
+
 
 #### Manually
 Just hit the **Clone or download** button and choose **Download ZIP**
@@ -28,11 +24,9 @@ Go to http://jam-icons.com: You'll find the complete list of icons.
 Add the master class "jam" to a tag and just click on the needed icon to copy the css code to your clipboard. 
 
 For example, if you need to use the "backpack" icon, do as below:
-```
-        
- <span class="jam jam-backpack"></span>
 
-```
+    <span class="jam jam-backpack"></span>
+
 
 
 
@@ -54,5 +48,5 @@ Jam icons is following the Semantic Versioning (http://semver.org/) with the MAJ
 
 
 
-## Licence
+## License
 This project is licensed under MIT (https://opensource.org/licenses/MIT)
