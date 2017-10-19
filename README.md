@@ -1,5 +1,5 @@
 # jam icons
-Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in both font &amp; svg versions. Licensed under MIT. Twitter: @michaelampr
+Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in both font &amp; svg versions. Licensed under MIT. Twitter: [@michaelampr](https://twitter.com/michaelampr)
 
 ### Complete icons list
 You can see the complete icons list on http://jam-icons.com 
