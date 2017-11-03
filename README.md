@@ -43,7 +43,7 @@ If you need specific icons that are not in the set, do not hesitate to create an
 
 ## Changelog
 Jam icons is following the Semantic Versioning (http://semver.org/) with the MAJOR.MINOR.PATCH format.
-- V1.0.7 - Added index.js / jam-icons.json
+- V1.0.71 - Added index.js / jam-icons.json
 - V1.0.0 - First release with 422 icons
 
 
