@@ -5,7 +5,7 @@ Jam icons is a set of icons designed for web projects, illustrations, print proj
 #### Via CDN (recommended) 
 Use [unpkg.com](https://unpkg.com) to load directly jam-icons without installing anything:
 
-    <link rel="stylesheet" href="https://unpkg.com/jam-icons@1.0.7/css/jam-icons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/jam-icons@1.0.71/css/jam-icons.min.css">
 
 
 #### Via NPM
