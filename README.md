@@ -10,7 +10,7 @@ Use [unpkg.com](https://unpkg.com) to load directly jam-icons without installing
 
 #### Via NPM
 
-    npm install jam-icons
+    npm install jam-icons@1.0.72
 
 
 #### Manually
