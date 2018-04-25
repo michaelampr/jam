@@ -45,6 +45,7 @@ Just hit the **download** button and use a `script` tag like below:
 <script src="/path/to/js/jam-icons.min.js"></script>
 ```
 
+
 #### Attributes
 
 `data-jam` (required) *The icon you want to use, e.g `data-jam="backpack"`*
@@ -54,9 +55,12 @@ Just hit the **download** button and use a `script` tag like below:
 `data-width` (optional) *RGB or Hexadecimal, e.g `data-width="32"`*
 
 `data-height` (optional) *RGB or Hexadecimal, e.g `data-height="32"`*
+
+
 #### More infos
 
 You can easily customize your icons using css, such as width, height and color. I provided the `data-fill`, `data-width` and `data-height` attributes to support a direct way to color the icon, in the case you do not want to add extra lines of css.
+
 
 ### CSS / Font
 
@@ -80,10 +84,12 @@ Just hit the **download** button and use a `link` tag like below:
 <link rel="stylesheet" type="text/css" href="/path/to/css/jam-icons.min.css">
 ```
 
+
 ### SVGS
 #### Usage
 The complete set as independents SVGs files is available too.
 Hit the **download** button to download it.
+
 
 ## Complete icons list
 You can see the complete icons list on [https://jam-icons.com](https://jam-icons.com)
@@ -93,7 +99,7 @@ If you have some icons ideas, please open a new **issue**, add a `icons-request`
 Likewise, if you see a bug or something that needs to be fixed, please open a new **issue** too with a `bug` label.
 
 ## Compatibility
-### Version 1.X.X
+#### Version 1.X.X
 Unfortunately, the v2 is a major version including major breaking changes: I kept the icons names availables in the v1 but the shapes are totally new. If you give it a go, try with JavaScript ✌️
 
 ## Changelog
