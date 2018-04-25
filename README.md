@@ -32,7 +32,7 @@ It becomes:
 ##### Via CDN (recommended)
 
 ```
-<script src="https://unpkg.com/jam-icons@2.0.0/js/jam-icons.min.js"></script>
+<script src="https://unpkg.com/jam-icons@2.0.0/js/jam.min.js"></script>
 ```
 ##### Via NPM
 
@@ -42,7 +42,7 @@ $ npm install jam-icons
 ##### Manually
 Just hit the **download** button and use a `script` tag like below:
 ```
-<script src="/path/to/js/jam-icons.min.js"></script>
+<script src="/path/to/js/jam.min.js"></script>
 ```
 
 
@@ -72,7 +72,7 @@ The alternative approach. You load the CSS stylesheet and use Jam icons as a fon
 #### Install
 ##### Via CDN (recommended)
 ```
-<link rel="stylesheet" href="https://unpkg.com/jam-icons@2.0.0/css/jam-icons.min.css>
+<link rel="stylesheet" href="https://unpkg.com/jam-icons@2.0.0/css/jam.min.css>
 ```
 ##### Via NPM
 ```
@@ -81,7 +81,7 @@ $ npm install jam-icons
 ##### Manually
 Just hit the **download** button and use a `link` tag like below:
 ```
-<link rel="stylesheet" type="text/css" href="/path/to/css/jam-icons.min.css">
+<link rel="stylesheet" type="text/css" href="/path/to/css/jam.min.css">
 ```
 
 
