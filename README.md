@@ -101,7 +101,8 @@ Likewise, if you see a bug or something that needs to be fixed, please open a ne
 ## Compatibility
 #### Version 1.X.X
 Unfortunately, the v2 is a major version including major breaking changes: I kept the icons names availables in the v1 but the shapes are totally new. If you give it a go, try with JavaScript ✌️
-This version is still available on [https://jam-icons.com/v1/](https://jam-icons.com/v1/)
+
+The v1 is still available on [https://jam-icons.com/v1/](https://jam-icons.com/v1/)
 
 ## Changelog
 Jam icons is following the [Semantic Versioning](http://semver.org/) with the MAJOR.MINOR.PATCH format.
