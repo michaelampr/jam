@@ -52,9 +52,9 @@ Just hit the **download** button and use a `script` tag like below:
 
 `data-fill` (optional) *RGB or Hexadecimal, e.g `data-fill="#F5C25A"`*
 
-`data-width` (optional) *RGB or Hexadecimal, e.g `data-width="32"`*
+`data-width` (optional) *Integer, e.g `data-width="32"`*
 
-`data-height` (optional) *RGB or Hexadecimal, e.g `data-height="32"`*
+`data-height` (optional) *Integer, e.g `data-height="32"`*
 
 
 #### More infos
