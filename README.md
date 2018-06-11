@@ -66,13 +66,13 @@ You can easily customize your icons using css, such as width, height and color. 
 
 #### Usage
 The alternative approach. You load the CSS stylesheet and use Jam icons as a font icons. You just have to use the `jam` class followed by the name of the icon you want to use prefixed by `jam-`, like below:
-```
+```html
 <span class="jam jam-backpack"></span>
 ```
 #### Install
 ##### Via CDN (recommended)
-```
-<link rel="stylesheet" href="https://unpkg.com/jam-icons@2.0.0/css/jam.min.css>
+```html
+<link rel="stylesheet" href="https://unpkg.com/jam-icons@2.0.0/css/jam.min.css">
 ```
 ##### Via NPM
 ```
@@ -80,7 +80,7 @@ $ npm install jam-icons
 ```
 ##### Manually
 Just hit the **download** button and use a `link` tag like below:
-```
+```html
 <link rel="stylesheet" type="text/css" href="/path/to/css/jam.min.css">
 ```
 
