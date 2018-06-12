@@ -18,12 +18,12 @@ This version is shipped in three formats: JavaScript, SVG and font and contains 
 ### Javascript
 #### Usage
 The recommended approach. It turns your tag into a clean svg markup. You just have to use the `data-jam` attribute inside a `span` or a `whatever` tag to select your icon (The attributes are listed below). So if you write:
-```
+```html
 <span class="your-custom-class" data-jam="backpack" data-fill="#222"></span>
 ```
 
 It becomes:
-```
+```html
 <svg class="jam jam-backpack your-custom-class" data-fill="#222">[...]</svg>
 ```
 
@@ -31,7 +31,7 @@ It becomes:
 #### Install
 ##### Via CDN (recommended)
 
-```
+```html
 <script src="https://unpkg.com/jam-icons@2.0.0/js/jam.min.js"></script>
 ```
 ##### Via NPM
@@ -41,7 +41,7 @@ $ npm install jam-icons
 ```
 ##### Manually
 Just hit the **download** button and use a `script` tag like below:
-```
+```html
 <script src="/path/to/js/jam.min.js"></script>
 ```
 
