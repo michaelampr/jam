@@ -32,7 +32,7 @@ It becomes:
 ##### Via CDN (recommended)
 
 ```html
-<script src="https://unpkg.com/jam-icons@2.0.0/js/jam.min.js"></script>
+<script src="https://unpkg.com/jam-icons/js/jam.min.js"></script>
 ```
 ##### Via NPM
 
@@ -72,7 +72,7 @@ The alternative approach. You load the CSS stylesheet and use Jam icons as a fon
 #### Install
 ##### Via CDN (recommended)
 ```html
-<link rel="stylesheet" href="https://unpkg.com/jam-icons@2.0.0/css/jam.min.css">
+<link rel="stylesheet" href="https://unpkg.com/jam-icons/css/jam.min.css">
 ```
 ##### Via NPM
 ```
