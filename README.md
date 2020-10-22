@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://jam-icons.com/static/img/logo.svg">
+  <img src="https://jam-icons.com/logo.svg">
 </p>
 
 Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT.
