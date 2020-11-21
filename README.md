@@ -34,6 +34,7 @@ The V2 is still available at [https://v2.jam-icons.com/](https://v2.jam-icons.co
 
 Jam icons is following the [Semantic Versioning](http://semver.org/) with the MAJOR.MINOR.PATCH format.
 
+- V3.1.0 - 44 new icons
 - V3.0.0 - Set update
 - V2.0.0 - New release with 896 icons
 - V1.0.72 - Optimizing SVGs
